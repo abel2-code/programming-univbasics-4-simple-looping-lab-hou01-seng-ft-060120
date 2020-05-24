@@ -7,6 +7,5 @@ def loop_message_five_times(array)
 end
 
 def loops_message_n_times(array, n)
-  counter = n
-  puts array * counter
+  n.times {array}
 end
