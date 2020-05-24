@@ -7,5 +7,6 @@ def loop_message_five_times(array)
 end
 
 def loops_message_n_times(array, n)
+n = 3
   puts n.times arrray
 end
