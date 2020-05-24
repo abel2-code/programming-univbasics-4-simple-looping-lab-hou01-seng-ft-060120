@@ -8,5 +8,5 @@ end
 
 def loops_message_n_times(array, n)
   counter = n
-  puts array[counter]
+  puts array.counter
 end
