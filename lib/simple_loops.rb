@@ -12,3 +12,5 @@ def loops_message_n_times(array, n)
     puts array
     n += 1
 end
+end
+
