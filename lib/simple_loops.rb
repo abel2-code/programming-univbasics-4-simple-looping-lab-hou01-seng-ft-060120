@@ -11,3 +11,4 @@ n = 3
   n.times do
     puts arrray
 end
+end
