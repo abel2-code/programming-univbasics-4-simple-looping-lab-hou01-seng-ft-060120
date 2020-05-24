@@ -6,6 +6,6 @@ def loop_message_five_times(array)
   puts array
 end
 
-def loop_message_n_times(array)
-  array.cycle(n)
+def loop_message_n_times(n, array)
+  n.times array
 end
