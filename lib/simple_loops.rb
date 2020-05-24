@@ -7,8 +7,9 @@ def loop_message_five_times(array)
 end
 
 def loops_message_n_times(n = 10, array)
-  while n >= 0 do
-    puts array
-    n -= 1
+  n = 0
+  while n < array.length do
+    puts array[n]
+    n += 1
   end
 end
