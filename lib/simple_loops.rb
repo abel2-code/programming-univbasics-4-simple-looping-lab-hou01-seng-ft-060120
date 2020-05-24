@@ -7,7 +7,7 @@ def loop_message_five_times(array)
 end
 
 def loops_message_n_times(array)
-  n.times do |index|
-    puts index
+  n.times do |array|
+    puts array
 end
 end
